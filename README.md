@@ -1,3 +1,3 @@
 # hello-world
 First repository
-My first time on GitHun, hoping to make more here.
+My first time on GitHub, hoping to make more here.
